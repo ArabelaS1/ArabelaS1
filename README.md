@@ -135,17 +135,40 @@ Aktivno učestvujem u omladinskim projektima i inicijativama koje imaju za cilj 
 Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz istraživanje problema u zajednici, timski rad i prijedloge rješenja učestvujem u promociji građanskog aktivizma i očuvanju kulturno-historijskog naslijeđa Bosne i Hercegovine.
 
 ---
+---
 
-## Galerija
+## Objave i priznanja
+
+Tokom svog školovanja učestvovala sam u projektima, takmičenjima i aktivnostima koje su prepoznali obrazovni i medijski portali.
+
+### Medijske objave
+
+- [Festival rada 2026](https://youtu.be/8wDRdtE-kAs?si=sgRT5Me7ddCGGXCm)
+- [Noć istraživača](https://etstuzla.skolatk.edu.ba/view-more/jos-jedno-prvo-mjesto-za-nasu-skolu-na-naucnoistrazivackom-sajmu/304)
+- [Prvo mjesto na državnom konkursu](https://tuzlalive.ba/ucenice-iz-tuzle-osvojile-prvo-mjesto-na-drzavnom-konkursu-o-nasilju-se-ne-suti/#google_vignette)
+- [Dani Hasana Kaimije](https://www.facebook.com/vijestiztuzle/posts/na-ovogodi%C5%A1njoj-kulturnoj-manifestaciji-dani-hasana-kaimije-tre%C4%87u-nagradu-osvoji/1579154169812938)
+- [Biografija](https://www.facebook.com/ETSTZ/posts/nagra%C4%91eni-literarni-radovina%C5%A1e-u%C4%8Denice-osvojile-su-zapa%C5%BEene--rezultate-u%C4%8De%C5%A1%C4%87em-u-/1297689811871516)
+- [Gostovanje na RTV TK](https://youtu.be/7UFogk2kpsg?si=TAWLh8qKCvLU56a-)
+- [Projekat građanin](https://radiosarajevo.ba/metromahala/teme/mladi-upozoravaju-na-stanje-historijskih-objekata/628920)
+
+### Istaknute aktivnosti
+
+- Učešće na Civitas takmičenju „Projekat Građanin“
+- Predstavljanje tehničkih projekata i istraživanja
+- Društveni i omladinski aktivizam
+- Državno takmičenje, Biosigurnost i biozaštita
+---
+
+## Galerija - društveni i kreativni rad
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-<img src="viber_image_2026-05-31_23-14-11-729.jpg" width="100%"/>
+<img src="Screenshot 2026-05-31 233926.png"/>
 
 <br>
-<sub>Slikarstvo</sub>
+<sub>Obilježavanje</sub>
 
 </td>
 
@@ -160,7 +183,7 @@ Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz 
 
 <td width="33%" align="center">
 
-<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop" width="100%"/>
+<img src="viber_image_2026-05-31_23-21-13-357.jpg" width="100%"/>
 
 <br>
 <sub>Manifestacije</sub>
@@ -168,32 +191,18 @@ Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz 
 </td>
 </tr>
 </table>
-## GitHub pregled
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=material-palenight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=material-palenight&hide_border=true" width="36%" />
-
-</div>
-
----
-
-<div align="center">
 
 ## Kontakt
 
-**Tuzla, Bosna i Hercegovina**
+Tuzla, Bosna i Hercegovina
 
-Otvorena sam za saradnju na kreativnim, tehničkim i društveno korisnim projektima.
-
-<br>
-
-<i>“Tehnologija gradi rješenja, a umjetnost im daje smisao.”</i>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:111827&height=120&section=footer" />
+<a href="https://www.linkedin.com/in/arabela-salihbegovi%C4%87-98405a372/">
+LinkedIn profil
+</a>
 
 </div>
