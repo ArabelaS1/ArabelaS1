@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./assets/profil.jpg" width="170" style="border-radius:50%;" />
+<img src="Screenshot 2025-12-04 181824.png" width="170" style="border-radius:50%;" />
 
 <h3>Tehničar računarstva</h3>
 
@@ -93,7 +93,7 @@ Interaktivni hardverski koncept za prikaz i vizualizaciju podataka pomoću mikro
 Samostalno razvijena igrica u programskom okruženju Keil µVision za STM32 mikrokontrolere. Projekat uključuje grafički prikaz, upravljanje logikom igre i interakciju korisnika kroz embedded sistem.
 </p>
 
-<img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="Screenshot 2026-05-07 213056.png" width="100%"/>
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ Samostalno razvijena igrica u programskom okruženju Keil µVision za STM32 mikr
 Bavim se slikanjem akrilom i uljem na platnu. Kroz boje, teksture i motive istražujem emocije, prostor i lični doživljaj svijeta.
 </p>
 
-<img src="https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+<img src="viber_image_2026-05-31_23-14-11-727.jpg" width="100%"/>
 
 </td>
 
@@ -142,7 +142,7 @@ Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz 
 <tr>
 <td width="33%" align="center">
 
-<img src="https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop" width="100%"/>
+<img src="viber_image_2026-05-31_23-14-11-729.jpg" width="100%"/>
 
 <br>
 <sub>Slikarstvo</sub>
@@ -151,10 +151,10 @@ Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz 
 
 <td width="33%" align="center">
 
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=800&auto=format&fit=crop" width="100%"/>
+<img src="viber_image_2026-05-31_23-14-42-635.jpg" width="100%"/>
 
 <br>
-<sub>Embedded sistemi</sub>
+<sub>Projekti</sub>
 
 </td>
 
@@ -163,7 +163,7 @@ Posebno mjesto u mom radu zauzima **Civitas – Projekat Građanin**, gdje kroz 
 <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?q=80&w=800&auto=format&fit=crop" width="100%"/>
 
 <br>
-<sub>STM32 razvoj</sub>
+<sub>Manifestacije</sub>
 
 </td>
 </tr>
